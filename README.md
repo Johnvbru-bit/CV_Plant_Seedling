@@ -1,4 +1,4 @@
-##Project Description: Plant Seedlings Classification using Computer Vision
+## Project Description: Plant Seedlings Classification using Computer Vision
 
 ### Introduction:
 In an era where modernizing agriculture is crucial, the manual process of identifying plant seedlings remains labor-intensive and time-consuming. The integration of Artificial Intelligence and Deep Learning offers a transformative opportunity to streamline this process, enhancing efficiency and sustainability in farming practices.
